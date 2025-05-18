@@ -1,0 +1,12 @@
+/* PLACEHOLDER IMAGE INSTRUCTIONS */
+
+1. Replace this file with your professional headshot
+2. Keep the same filename: placeholder-profile.jpg
+3. Recommended size: 600x600px (square aspect ratio)
+4. Professional attire recommended
+5. Clean background (white, light gray, or subtle gradient)
+6. Good lighting and high resolution
+7. Head and shoulders or head-to-waist framing
+
+This image will appear in the hero section of your homepage and should convey
+your professional brand effectively.

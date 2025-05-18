@@ -1,0 +1,22 @@
+/* PROJECT IMAGE PLACEHOLDER */
+
+Replace this file with images that showcase your professional projects.
+
+FILENAME CONVENTION:
+- project-{number}-cover.jpg: Main project thumbnail
+- project-{number}-image-{sequence}.jpg: Project detail images
+
+RECOMMENDED SIZES:
+- Cover images: 1200x800px (3:2 aspect ratio)
+- Detail images: Consistent aspect ratio (16:9 or 4:3 recommended)
+
+IMAGE CONTENT IDEAS:
+- Results/data visualizations
+- Project deliverables
+- Presentation slides (with confidential info removed)
+- Team photos (with permission)
+- Client/company logos (if permitted)
+- Workspace or implementation photos
+
+Always ensure you have permission to use any images, especially those containing
+company information, logos, or other people.
